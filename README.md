@@ -2,7 +2,6 @@
   <h1 align="center">Translator</h1>
 </div>
 
-## Demo 
 <div align="center">  
   <h1 align="center">Main Screens</h1>
   <img src="images/mainScreen.gif" width="300" height="600">
