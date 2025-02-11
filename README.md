@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Funko Online Store</h1>
+  <h1 align="center">Translator</h1>
 </div>
 
 ## Demo 
